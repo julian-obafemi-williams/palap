@@ -1,2 +1,2 @@
-# palap
+# Panlap
 2nd repository
